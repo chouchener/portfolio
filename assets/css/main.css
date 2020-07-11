@@ -2311,11 +2311,28 @@ img {vertical-align: middle;}
   top: 20px;
   left: 20px;
   z-index: 10;
-
+  float: left;
+  background-color: #5E4700;
+  opacity: 0.8;
 }
 
 .returnButt:hover{
 	text-decoration: none;
 	font-weight: bold;
-	color: #C8D1E8;
+	color: #C8D1E8;	
+
 }
+
+
+/* project 1 */
+
+.btntag1 {
+  border: none;
+  background-color: #C8D1E8;
+  color: #5E4700;
+  padding: 14px 28px;
+  font-size: 16px;
+  margin: 3px;
+  display: inline-block;
+}
+
