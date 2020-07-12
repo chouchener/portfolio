@@ -2225,8 +2225,8 @@ img {vertical-align: middle;}
 /* Slideshow container */
 .slideshow-container {
   max-width: 1000px;
-  position: absolute;
-  margin: auto;
+  position: relative;
+  margin: 30px;
   bottom: 0px;
 }
 
