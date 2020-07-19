@@ -2336,3 +2336,19 @@ img {vertical-align: middle;}
   display: inline-block;
 }
 
+.downloadCV{
+	padding: 10px 15px;
+	
+    float: right;
+    background-color: #75B898;
+    color: white;
+    opacity: 0.8;
+    border: none;
+    margin-left: 5px;
+   
+}
+.downloadCV:hover{
+	cursor: pointer;
+	background-color: #E8F6ED;
+	color: #363636;
+}
