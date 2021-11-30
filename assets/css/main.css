@@ -1548,7 +1548,7 @@ a {text-decoration: none;}
 
 /* VideoMotivation */
 .VideoMotivation {
-	
+	position: relative;
 	display: flex;
 
 }
