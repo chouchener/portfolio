@@ -1546,6 +1546,13 @@ a {text-decoration: none;}
 		}
 
 
+/* VideoMotivation */
+.VideoMotivation {
+	
+	display: flex;
+
+}
+
 /* middle and text */
 
 .tex {
@@ -1559,6 +1566,7 @@ a {text-decoration: none;}
   transition: .5s ease;
   opacity: 0;  
   position: relative;
+  top: -25%;
   text-align: center;
 }
 
@@ -1610,6 +1618,7 @@ a {text-decoration: none;}
 		.projet1:hover .middle {
   opacity: 1 !important;
   cursor: pointer;
+
   }	
   		.projet2:hover .middle {
   opacity: 1 !important;
@@ -2347,6 +2356,17 @@ img {vertical-align: middle;}
 	background-color: #E8F6ED;
 	color: #363636;
 }
+.fa-linkedin:hover{
+    cursor: pointer;
+    opacity: 0.5;
+}
+
+.fa-paper-plane:hover{
+    cursor: pointer;
+    opacity: 0.5;
+}
+
+
 @media screen and (max-width: 736px) {
 #wrapper2{
 	padding: 2em 1.5em 1.5em 1.5em;
