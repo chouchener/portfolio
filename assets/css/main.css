@@ -2344,7 +2344,7 @@ img {vertical-align: middle;}
 	padding: 10px 15px;
 	
     float: right;
-    background-color: #75B898;
+    background-color: #6589BF;
     color: white;
     opacity: 0.8;
     border: none;
@@ -2353,7 +2353,7 @@ img {vertical-align: middle;}
 }
 .downloadCV:hover{
 	cursor: pointer;
-	background-color: #E8F6ED;
+	background-color: #EFE8E8;
 	color: #363636;
 }
 .fa-linkedin:hover{
